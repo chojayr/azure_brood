@@ -1,0 +1,6 @@
+---
+storage_account_name: ##the storage account name 
+storage_access_key: ##storage access key 
+management_certificate: ## *.pem location 
+subscription_id: ##your account subscription id 
+management_endpoint: 'https://management.core.windows.net'
