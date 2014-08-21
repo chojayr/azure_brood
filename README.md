@@ -1,6 +1,6 @@
 ### azure_brood
 
-###### Another lame script to create or delet VM on Windows Azure
+###### Another lame script to create or delete VM on Windows Azure
 
 ###### How to use?
 ###### Basically You need to install first the required gem
@@ -34,7 +34,7 @@ host:
 Once the gems that required are installed on your system and you provide all
 the information needed on the yaml file.
 
-* To deploy vm and supply the info on the guacamole
+* To deploy vm 
 <pre>
 $ ruby deploy_azurevm.rb
 
